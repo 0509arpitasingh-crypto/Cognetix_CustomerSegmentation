@@ -44,6 +44,20 @@ customer-segmentation/
 6. Visualize and analyze the customer segments.
 7. Interpret the characteristics of each cluster.
 
+## 📊 Output
+
+### Box Plot
+
+![Box Plot](Images/Boxplot.png)
+
+### Elbow Method
+
+![Elbow Method](Images/Elbow_Method.png)
+
+### Scatter Plot
+
+![Scatter Plot](Images/Scatter_Plot.png)
+
 ## 📈 Results
 
 The clustering model successfully groups customers with similar characteristics into distinct segments. These segments can help businesses understand customer behavior and support data-driven decisions for personalized marketing and customer relationship management.
