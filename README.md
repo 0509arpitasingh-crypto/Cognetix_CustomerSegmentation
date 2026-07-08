@@ -23,17 +23,6 @@ The project follows a complete machine learning workflow, including data preproc
 * Scikit-learn
 * Jupyter Notebook
 
-## 📂 Project Structure
-
-```text
-customer-segmentation/
-│
-├── data/
-├── task4_customer_segmentation.ipynb
-├── README.md
-└── requirements.txt
-```
-
 ## 📊 Workflow
 
 1. Load and explore the customer dataset.
@@ -61,13 +50,6 @@ customer-segmentation/
 ## 📈 Results
 
 The clustering model successfully groups customers with similar characteristics into distinct segments. These segments can help businesses understand customer behavior and support data-driven decisions for personalized marketing and customer relationship management.
-
-## 🌱 Future Improvements
-
-* Experiment with different clustering algorithms such as DBSCAN or Hierarchical Clustering.
-* Include additional customer attributes for better segmentation.
-* Build an interactive dashboard using Streamlit or Dash.
-* Perform cluster profiling for deeper business insights.
 
 ---
 
