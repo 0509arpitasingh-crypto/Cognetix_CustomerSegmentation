@@ -52,11 +52,11 @@ customer-segmentation/
 
 ### Elbow Method
 
-![Elbow Method](Images/Elbow Method.png)
+![Elbow Method](Images/Elbow_Method.png)
 
 ### Scatter Plot
 
-![Scatter Plot](Images/Scatter Plot.png)
+![Scatter Plot](Images/Scatter_Plot.png)
 
 ## 📈 Results
 
